@@ -6,7 +6,7 @@ Primer cuatrimestre:
 - Introducción a la programación científica
 - Secuenciación y ómicas
 - Genética clínica y de poblaciones
-- Estadística y R para ciencias de la salud
+- Estadística y R para ciencias de la salud<br>
 Segundo cuatrimestre:
 - Programación con Python
 - Bases de datos
