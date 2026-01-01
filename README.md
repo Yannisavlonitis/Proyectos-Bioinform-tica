@@ -1,5 +1,5 @@
 # Proyectos-Bioinform-tica
-Repositorio personal de proyectos realizados durante el máster de bioinformática.
+Repositorio personal de proyectos realizados durante el máster de bioinformática.<br>
 Hay una carpeta por cada asignatura:
 Primer cuatrimestre:
 - Algoritmos e IA
