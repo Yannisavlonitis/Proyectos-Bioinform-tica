@@ -2,7 +2,7 @@
 
 Este repositorio recopila los proyectos y prácticas desarrollados a lo largo del **Máster en Bioinformática**.  
 El contenido está organizado por asignaturas, con una carpeta independiente para cada una de ellas.
-En cada asignatura se han llevadoa a cabo distintas actividades, cada una almacenada en una carpeta correspondiente. Cada una de las carpetas contiene el enunciado (generalmente un documento word), un script y los datos.
+En cada asignatura se han llevado a a cabo distintas actividades, cada una almacenada en una carpeta correspondiente. Cada una de las carpetas contiene el enunciado (generalmente un documento word), un script y los datos.
 
 ## 📁 Primer cuatrimestre
 - **Algoritmos e Inteligencia Artificial**
